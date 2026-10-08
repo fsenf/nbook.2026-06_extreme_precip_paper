@@ -46,4 +46,9 @@ The notebooks contain absolute data paths to the original data locations. You mu
 
 
 03-Plotting-Slopes.ipynb
-
+- /work/bb1376/user/leonie/paper_update/output/data_slopes_10_alpha/df_lm_coefficients_boot_10_percent_contribution_all_relative.csv
+- /work/bb1376/user/leonie/paper_update/output/data_slopes_10_alpha/df_lm_coefficients_boot_30_percent_contribution_all_relative.csv
+- /work/bb1376/user/leonie/paper_update/output/data_slopes_10_alpha/df_lm_coefficients_boot_50_percent_contribution_all_relative.csv
+- /work/bb1376/user/leonie/paper_update/output/data_slopes_10_alpha/df_lm_coefficients_boot_500_mm_all_relative.csv'
+- /work/bb1376/user/leonie/paper_update/output/data_slopes_10_alpha/df_lm_coefficients_boot_200_mm_all_relative.csv'
+- /work/bb1376/user/leonie/paper_update/output/data_slopes_10_alpha/df_lm_coefficients_boot_80_mm_all_relative.csv'
